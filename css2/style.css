@@ -1,0 +1,43 @@
+body	{
+
+	background: #ffef96;
+	color: #000000; 
+	margin: 30px; 
+	padding: 30px;
+	
+}
+h1 {
+	background: rgb(254, 255, 253);
+	font-family: 'Anton', sans-serif;
+	color: #9c96ff;
+	font-size: 35pt;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 25px;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: 10%;
+}
+p{
+	font-size: 25pt;
+	font-family: 'Major Mono Display', monospace;
+	color: #ed8749;
+}
+h2 {
+	font-size: 20pt;
+	font-family: 'Pacifico', cursive;
+	
+} 
+#title {
+	margin: 0;
+	border: 0;
+	width: 100%;
+}
+#text {
+	width: 48%
+
+}
+#otherSide {
+   width: 48%;
+   float: right;
+}
